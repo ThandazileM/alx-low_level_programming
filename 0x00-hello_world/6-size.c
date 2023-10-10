@@ -1,9 +1,12 @@
 #include <stdio.h>
 /**
  * main - main function
+ *
  * Description: Program that prints the size of the various computer types
- * Return 0 (Success)
+ *
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	char a;
