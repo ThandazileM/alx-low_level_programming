@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
  * main - Program will print the size of the various computer types that is compiled and run on
- * Return 0 (success)
+ * Return 0 (Success)
  */
-
 int main(void)
 {
 	char a;
